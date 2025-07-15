@@ -1,0 +1,6 @@
+Brief Introduction About Myself
+
+My name is Loubna. I am passionate about technology and enjoy learning new things in programming and DevOps. 
+I aspire to work on impactful projects that solve real-world problems.
+
+I am currently exploring GitHub and open-source collaboration as part of my learning path.
